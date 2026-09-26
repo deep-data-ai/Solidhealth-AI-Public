@@ -1,0 +1,4 @@
+
+# Re-added 2026-09-26: the 2026 incident removed this so a malicious
+# .vscode/tasks.json could be committed. See incident-response/FINDINGS.md
+.vscode/
